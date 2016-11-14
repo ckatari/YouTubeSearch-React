@@ -1,5 +1,9 @@
+.title {
+  margin: 30px;
+}
+
 .search-bar {
-    margin:20px;
+    margin:40px;
     text-align: center;
 }
 
